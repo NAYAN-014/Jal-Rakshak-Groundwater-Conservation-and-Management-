@@ -1,0 +1,5 @@
+- [ ] Add Jal Yatra chapter data and journey route
+- [ ] Replace lobby with journey-first game home
+- [ ] Add chapter water security, crisis question, impact reveal, and results
+- [ ] Update profile, rankings, certificates, and navigation language
+- [ ] Verify the home, journey, play, and result flows
